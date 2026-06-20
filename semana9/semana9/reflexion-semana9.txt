@@ -1,0 +1,9 @@
+Las plataformas tecnológicas que utilizan las comunidades deben funcionar de manera estable y 
+segura para garantizar un acceso continuo a la
+información y los servicios. Un servidor estable evita interrupciones que puedan afectar la participación de los usuarios. 
+Además, la seguridad protege los datos personales y la información importante almacenada en la plataforma.
+El monitoreo constante permite detectar errores y resolver problemas rápidamente. 
+También ayuda a prevenir ataques o accesos no autorizados.
+Mantener los servicios disponibles genera confianza entre los usuarios. 
+Las buenas prácticas de administración reducen riesgos y mejoran el rendimiento del sistema. 
+Por estas razones, la estabilidad y la seguridad son aspectos fundamentales para cualquier plataforma digital comunitaria.
